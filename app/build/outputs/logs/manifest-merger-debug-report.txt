@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/sylvia/.gradle/caches/transforms-3/0849c1a7dfd0de35c29ffc2c164f7d57/transformed/constraint-layout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sylvia/.gradle/caches/transforms-3/dc84a15bb63715a300083dbba2434c28/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sylvia/.gradle/caches/transforms-3/97cc4f80e1784b8b7b9eafa35e2e24ec/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/3c5ac556f3dc2cf42e8b6bf77591cdb5/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sylvia/.gradle/caches/transforms-3/9552f35216d3785e21e0d27cf040241e/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sylvia/.gradle/caches/transforms-3/d5382ae2d64f814671ffe6a779c517dd/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/e519a6edeadca6eb5fc94242f3a91469/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/sylvia/.gradle/caches/transforms-3/1db2271ededa7007b4012f19666e146d/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/sylvia/.gradle/caches/transforms-3/b34e79f0fa231e6cb887f3428f596b6a/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/4fee9e8e0031ccd85f23f41d47d1990f/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/ee66ed3473dc1704442148032aefb00d/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/9bdb62c0e064f0319003b89ac8273890/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/sylvia/.gradle/caches/transforms-3/d4cf7db4c004fd8ddf91ee20d3f7f820/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/f7b55693e568e1e818a83cd8a9e2062c/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sylvia/.gradle/caches/transforms-3/8da272a341b172326c9e5b5051f31227/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/sylvia/.gradle/caches/transforms-3/700625e204cfab68866d837fcbf079d8/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/ee75fd0401de29830b3337f2bcdee2df/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sylvia/.gradle/caches/transforms-3/098b1255d4d0ec36e112c0d5aaed3e4a/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sylvia/.gradle/caches/transforms-3/485561e3015ff45c972dd4c3d60f3398/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/sylvia/.gradle/caches/transforms-3/0ff3745ccb48049eac9ad267e58a57c4/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sylvia/.gradle/caches/transforms-3/a8f5c473e68b36f693debae622549ec2/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/sylvia/.gradle/caches/transforms-3/4b43fb46ff052e516e9c73f41152ae99/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sylvia/.gradle/caches/transforms-3/0c7043327c3e8a0e0431500b871440d7/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sylvia/.gradle/caches/transforms-3/fa30a3c3829e40fde263f914af7fc7bf/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sylvia/.gradle/caches/transforms-3/8ddf96a52c8d9b76be458d467c896ffa/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sylvia/.gradle/caches/transforms-3/a43b6035120e5dce67f70bf9fde8164f/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/sylvia/.gradle/caches/transforms-3/d04e674760bc578d1b5ec53f4afa5b80/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/sylvia/.gradle/caches/transforms-3/0849c1a7dfd0de35c29ffc2c164f7d57/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/sylvia/.gradle/caches/transforms-3/0849c1a7dfd0de35c29ffc2c164f7d57/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/sylvia/.gradle/caches/transforms-3/700625e204cfab68866d837fcbf079d8/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/sylvia/.gradle/caches/transforms-3/700625e204cfab68866d837fcbf079d8/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/ee75fd0401de29830b3337f2bcdee2df/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/ee75fd0401de29830b3337f2bcdee2df/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/sylvia/.gradle/caches/transforms-3/700625e204cfab68866d837fcbf079d8/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:8:9-54
+	tools:targetApi
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:12:9-50
+	android:dataExtractionRules
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.example.mycalculator.MainActivity
+ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/sylvia/.gradle/caches/transforms-3/0849c1a7dfd0de35c29ffc2c164f7d57/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/sylvia/.gradle/caches/transforms-3/0849c1a7dfd0de35c29ffc2c164f7d57/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sylvia/.gradle/caches/transforms-3/dc84a15bb63715a300083dbba2434c28/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sylvia/.gradle/caches/transforms-3/dc84a15bb63715a300083dbba2434c28/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sylvia/.gradle/caches/transforms-3/97cc4f80e1784b8b7b9eafa35e2e24ec/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sylvia/.gradle/caches/transforms-3/97cc4f80e1784b8b7b9eafa35e2e24ec/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/3c5ac556f3dc2cf42e8b6bf77591cdb5/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/3c5ac556f3dc2cf42e8b6bf77591cdb5/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sylvia/.gradle/caches/transforms-3/9552f35216d3785e21e0d27cf040241e/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sylvia/.gradle/caches/transforms-3/9552f35216d3785e21e0d27cf040241e/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sylvia/.gradle/caches/transforms-3/d5382ae2d64f814671ffe6a779c517dd/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sylvia/.gradle/caches/transforms-3/d5382ae2d64f814671ffe6a779c517dd/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/e519a6edeadca6eb5fc94242f3a91469/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/e519a6edeadca6eb5fc94242f3a91469/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sylvia/.gradle/caches/transforms-3/1db2271ededa7007b4012f19666e146d/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sylvia/.gradle/caches/transforms-3/1db2271ededa7007b4012f19666e146d/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sylvia/.gradle/caches/transforms-3/b34e79f0fa231e6cb887f3428f596b6a/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sylvia/.gradle/caches/transforms-3/b34e79f0fa231e6cb887f3428f596b6a/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/4fee9e8e0031ccd85f23f41d47d1990f/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/4fee9e8e0031ccd85f23f41d47d1990f/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/ee66ed3473dc1704442148032aefb00d/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/ee66ed3473dc1704442148032aefb00d/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/9bdb62c0e064f0319003b89ac8273890/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/9bdb62c0e064f0319003b89ac8273890/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sylvia/.gradle/caches/transforms-3/d4cf7db4c004fd8ddf91ee20d3f7f820/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sylvia/.gradle/caches/transforms-3/d4cf7db4c004fd8ddf91ee20d3f7f820/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/f7b55693e568e1e818a83cd8a9e2062c/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sylvia/.gradle/caches/transforms-3/f7b55693e568e1e818a83cd8a9e2062c/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sylvia/.gradle/caches/transforms-3/8da272a341b172326c9e5b5051f31227/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sylvia/.gradle/caches/transforms-3/8da272a341b172326c9e5b5051f31227/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sylvia/.gradle/caches/transforms-3/700625e204cfab68866d837fcbf079d8/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sylvia/.gradle/caches/transforms-3/700625e204cfab68866d837fcbf079d8/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/ee75fd0401de29830b3337f2bcdee2df/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sylvia/.gradle/caches/transforms-3/ee75fd0401de29830b3337f2bcdee2df/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sylvia/.gradle/caches/transforms-3/098b1255d4d0ec36e112c0d5aaed3e4a/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sylvia/.gradle/caches/transforms-3/098b1255d4d0ec36e112c0d5aaed3e4a/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sylvia/.gradle/caches/transforms-3/485561e3015ff45c972dd4c3d60f3398/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sylvia/.gradle/caches/transforms-3/485561e3015ff45c972dd4c3d60f3398/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sylvia/.gradle/caches/transforms-3/0ff3745ccb48049eac9ad267e58a57c4/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sylvia/.gradle/caches/transforms-3/0ff3745ccb48049eac9ad267e58a57c4/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sylvia/.gradle/caches/transforms-3/a8f5c473e68b36f693debae622549ec2/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sylvia/.gradle/caches/transforms-3/a8f5c473e68b36f693debae622549ec2/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sylvia/.gradle/caches/transforms-3/4b43fb46ff052e516e9c73f41152ae99/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sylvia/.gradle/caches/transforms-3/4b43fb46ff052e516e9c73f41152ae99/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sylvia/.gradle/caches/transforms-3/0c7043327c3e8a0e0431500b871440d7/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sylvia/.gradle/caches/transforms-3/0c7043327c3e8a0e0431500b871440d7/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sylvia/.gradle/caches/transforms-3/fa30a3c3829e40fde263f914af7fc7bf/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sylvia/.gradle/caches/transforms-3/fa30a3c3829e40fde263f914af7fc7bf/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sylvia/.gradle/caches/transforms-3/8ddf96a52c8d9b76be458d467c896ffa/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sylvia/.gradle/caches/transforms-3/8ddf96a52c8d9b76be458d467c896ffa/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sylvia/.gradle/caches/transforms-3/a43b6035120e5dce67f70bf9fde8164f/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sylvia/.gradle/caches/transforms-3/a43b6035120e5dce67f70bf9fde8164f/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sylvia/.gradle/caches/transforms-3/d04e674760bc578d1b5ec53f4afa5b80/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sylvia/.gradle/caches/transforms-3/d04e674760bc578d1b5ec53f4afa5b80/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+		ADDED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sylvia/AndroidStudioProjects/Mycalculator/app/src/main/AndroidManifest.xml
